@@ -1,4 +1,4 @@
-# Druling
+# Restro
 Your one-stop solution for all you restaurant management.
 
 ## Project Setup
